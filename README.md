@@ -9,4 +9,4 @@ Instagram style of navigation.
 - Extension easy for autolayout
 - Camera/Take photo handling
 
-![alt text](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2ef92669535437.5b850888a594c.png)
+![alt text](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2ef92669535437.5b850888a594c.png | width=300)
