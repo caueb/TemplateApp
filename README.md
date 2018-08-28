@@ -10,5 +10,3 @@ Instagram style of navigation.
 - Camera/Take photo handling
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2ef92669535437.5b850888a594c.png" alt="alt text" width="200" height="400">
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6fa74969535437.5b850888a5570.png" alt="alt text" width="200" height="400">
-
